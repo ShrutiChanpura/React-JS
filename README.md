@@ -6,6 +6,8 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . T
 Here's the link for you to watch the sessions as well
 
 I got to have hands on experience on:
+
+
 ![image](https://user-images.githubusercontent.com/86774420/127531616-40ecd9b0-2377-484c-be18-0c18b11368ca.png)
  
 •  javascript
